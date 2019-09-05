@@ -1,0 +1,20 @@
+1. BOLD and Capitalize "Under the supervision..", "SUBMITTED TO/BY"
+2. replace "enter" spaces with space before/after paragraph
+3. Maintain appropriate spaces in LISTS
+4. add Activity Diagram
+5. Add "FURTHER RECOMMENDATIONS" in Conclusion
+
+MID DEFENSE SUGGESTIONS
+documentation:
+remove hybrid
+literature review citation
+Testing outputs
+Class Diagram Recommender
+Remove Candidate evaluation
+Activity Diagram adjustment
+
+slides: 
+include figures for testing
+don't put numbers
+slides and doc can be different
+
